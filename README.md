@@ -1,12 +1,12 @@
 Note: 
 User Successfully Retrieves the Lost Code.
-Which was avaiable on this BackEnd Repository
+Which was available on this BackEnd Repository
 
 
 Issues Faces During Git Commands:
 1. Merge and Compare Conflicts
-2. Github Copolit Intrude Conflicts
-3. Code for BackEnd Entriely Lost, During Commit and Push
+2. Github Copilot Intrude Conflicts
+3. Code for BackEnd Entirely Lost, During Commit and Push
 4. Conflicts occur after losing the code.
 5. In the mean time of retrieval, Hash Code issues..
 
